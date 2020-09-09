@@ -193,6 +193,10 @@ body
     border: none;
 }
 
+.tag:hover{
+    text-decoration: underline;
+}
+
 .nomisezione{
     color: #504741;
     font-family: 'Montserrat';

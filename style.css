@@ -230,6 +230,31 @@ body
     margin: 40px;
 }
 
+.ricerca{
+    height: 40px;
+    background-color: lightgrey;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+
+.ricerca:hover{
+    border: 2px solid grey;
+}
+
+.pulsante{
+    height: 40px;
+    background-color: lightgrey;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    font-family: 'Montserrat';
+    font-size: 16px;
+    width: 40px;
+}
+
+.pulsante:hover{
+    border: 2px solid grey;
+}
+
 main{
 
 }

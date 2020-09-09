@@ -62,7 +62,7 @@ nav li
 
 nav a
 {
-    color: white;
+    color: lightgrey;
     text-decoration: none;
     text-transform: uppercase;
     padding: 16px 16px;
@@ -181,6 +181,7 @@ body
     font-size: 16px;
     border: none;
     height: auto;
+    padding-right: 24px;
 }
 
 .tag
@@ -203,6 +204,32 @@ body
     margin-top: 30px;
     max-width: 100%;
 }
+
+.fineparagrafomain{
+    background-color: lightgrey;
+    width: auto;
+    height: 40px;
+    margin top: 12px;
+    padding-left: 24px;
+}
+
+.fineparagrafomain a{
+    color: green;
+}
+
+.fineparagrafomain p{
+    color: #504741;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    border: none;
+    text-align: left;
+    padding: 11px;
+}
+
+.linea{
+    margin: 40px;
+}
+
 main{
 
 }
